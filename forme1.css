@@ -1,0 +1,91 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #e2dbded2;
+    background-image:url(fond.JPG) ;
+
+    margin: 0%;
+    padding: 5%;
+}
+
+.container {
+max-width: 800;
+margin: 50px auto;
+padding: 20px;
+background-color: rgba(235, 180, 235, 0.322);
+border-radius: 5px;
+box-shadow: 0 0 10px rgb(red, green, blue);
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form{
+    text-align: center;
+}
+
+label{
+    display: block;
+    margin: 5px;
+}
+
+input [type ="submit"]:hover,
+button:hover {
+    background-color: #9256;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #e2ba34b4;
+}
+
+.acton{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.action button{
+    margin-right: 10px;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 20px 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a{
+    color: #6503a7;
+    text-decoration: none;
+}
+
+footer{
+    background-color:#b88c78 ;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100px;
+}
+
+.boy
+{
+  width: 200px;
+  height: auto;
+  display: block;
+  margin-left: 1000px;
+
+}
